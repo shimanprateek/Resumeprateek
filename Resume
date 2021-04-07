@@ -1,0 +1,139 @@
+Objective:
+Looking for a challenging role as a Test Lead/Test Manager to cultivate and grow skills in a fast-paced computer software company with opportunities for leadership roles and career advancement. A strong will to prosper in any assigned duties and Passion to quickly learn and adjust to new environment and technologies.
+
+Experience Summary
+•	A competent IT professional with a total of 9.8 years of experience in Manual, Automation (API, Mobile and Web) and Performance Testing.
+•	Currently associated with ITC InfoTech as Lead Consultant. Currently working in Retail banking domain handling Open banking product for bank (CMA-9 )
+•	Experience in Software Quality Testing on Mainframe Platform, ETL, Web, API’s and Microservices and Data warehouse applications. 
+•	Created, maintained and Executed automated scripts using specialized testing tool (Cucumber/Selenium/Rest-Assured/Appium/J-meter/RFT/UFT)
+Have an experience working directly with client, also in offshore-onsite model.
+•	Completed beginner level certificate in Dev-ops from Edureka. Have Knowledge on GIT, Maven, Jenkins, Docker, Kubernetes, Ansible etc.
+•	Designing and developing Hybrid automation framework (Keyword and data driven), good expertise in BDD Framework design using Cucumber with Java and Junit, enriched with extent reporting, snapshots and defect logging. Also has experience on working on .NET platform with Spec flow-BDD framework. 
+•	Designed and developed Hybrid automation framework using Apache POI, Selenium-Web driver and page factory. Also worked on PageObjectModel for Selenium –TestNG Framework. 
+•	Constructing feature files using Gherkin and data set up for scenarios based on Acceptance criteria for the user story.
+•	Designed Hybrid Automation Framework for FLEXCUBE Banking Product in BDD-Cucumber framework
+•	Performed Manual Testing as well as Automated Testing on ETL applications, Data warehouse, Web Applications and RUMBA (Mainframe) applications.
+•	Experience working in Scrum framework and involved in Scrum events like PBI estimation, sprint planning, 
+Daily scrum calls, Sprint review and sprint retrospective. Also considering the definition of done to achieve sprint goals.
+•	Worked on various testing tools and technologies mentioned in the Technical Skills section.
+•	Have a good knowledge of ETL and Data warehouse testing techniques. Efficient in designing complex queries, read stored procedures and quickly understanding the ER diagrams and database Modelling in order to create Test Strategy and Plan for the requirement.
+•	Have a good in-depth knowledge on testing estimation techniques, calculating ROI and Automation ROI graphs.
+•	Possess good analytical and communication skills, a quick learner and ability to work both in team and independently for delivery of projects.  Identifying risks and framing corresponding mitigation plan.
+•	Experience in working across all stages of Software Testing Life Cycle - Requirement Analysis, Test Strategy, Test Planning, Test Case Preparation, Test Case Execution, UAT (Support) and Deployment (Support), Defect Reporting.
+•	Experience in Functionality Testing, Manual Testing, Smoke Testing, System Testing, Regression Testing and UAT Testing.
+•	Participation in Client calls, Task Allocation to team and review of deliverables allocated followed by reporting.
+•	Created and presented a Proof of Concept to client using UFT and Selenium for ETL and web-based applications.
+•	Document and share learnings from the project in form of BOKs and taking learning sessions for other team members. Reviews of deliverables as per the CMMi standards and COE testing standards.
+•	Have In-depth knowledge about Configuration Controller, Defect Prevention Techniques and Knowledge Management.
+
+
+Testing Tools	 HP QTP/UFT (Automation),Selenium Webdriver 3.0, HP Quality Centre/ALM, IBM Rational Clear Case, IBM Rational Clear Quest, IBM Data Studio, MSSQL 2008 R2(Business Intelligence Platform),IBM RFT,IBM RQM,IBM RTC, TestNG, Auto IT , Rest-Assured , Appium, JMeter, Winium, Spec flow, Git, Maven, Cucumber, Jenkins, Jira and confluence.
+Mainframe	JCL, Cobol, IDMS, DB2, MF utilities/tools (fileaid, Startool, endevor, Test Scan)
+ORACLE APP	Oracle PeopleSoft HRMS, Oracle Financial Accounting Hub, Flex cube banking
+Operating Systems	Windows
+RDBMS/DBMS	PL/SQL, SQL, DB2, Oracle, Postgres
+Other Application/Tools	MSOffice (Package), EssbasePlugin for Excel, Ultra Edit, Pivot Tables, RUMBA, Notepad ++, Client, Postman, Docker, Docker-Swarm, Kubernetes, Ansible, Specific in-house tools.
+Language	VB Script, JAVA and VBA
+
+Academics:
+Qualification 	Year	Name of Institution	Board/University	Percentage 
+B. Tech 
+(Computer Science & Engineering)	2011	Jaypee Institute of Information Technology, NOIDA	Jaypee University NOIDA	6.5 CGPA
+Class XII	2006	BISHOP CONRAD SCHOOL, BAREILLY	C.B.S.E	90.6 %
+Class X	2004	BISHOP CONRAD SCHOOL, BAREILLY	C.B.S.E	87 %
+
+
+
+Company	Work Experience	Role
+ITC InfoTech	2.1 year	Lead Consultant
+Oracle Financial Services Software	9 months      	Automation Test Lead
+Infosys Ltd	6 years 9 months	 	Test Analyst
+Test Engineer
+
+
+
+Working as Lead Consultant – ITC InfoTech (Mar 2019 to Present) -   Duration 2.1 year
+•	Currently working on implementing Open Banking product for bank as per OBIE guidelines (PSD-2) involving open API’s and Services.
+-	Accounts, Payments and Confirmation of Funds Specifications
+-	Dynamic Client Registration
+-	Management Rollouts
+-	Dealing with certificates/SSL’s
+-	Authorization and Authentication techniques using Oauth2.0 and OpenID
+-	Guiding Automation and Manual teams with postman, rest assured, jmeter, Appium, Selenium, Git, Maven, Jenkins, CICD
+•	Involved in requirement gathering and designing test strategy for manual and Automation (API, API Performance, Mobile and Web)
+•	Involved in e2e automation involving different modules and maintaining project artifacts in confluence
+•	Involved in PBI estimations, sprint planning, sprint goals, daily scrum call and sprint retrospective meetings using Jira tool.
+•	Presenting automation solutions to business team and discussion about benefits thru automation. 
+•	Worked for Mortgage Domain and Retail banking for one of the leading banks in UK (CMA-9).
+•	Worked on Intermediary application which deals with analyzing mortgages for home buyers in UK.
+•	Successfully enhanced framework with Fillo utilities to faster the execution speed instead of using Apache Poi.
+•	Implemented Postgres Database to be used as a data source instead of MS-Excel.
+•	Customized hooks file in cucumber to pick data source in one shot before every scenario.
+
+
+Worked as Automation Test Lead - Oracle (Jun 2018 to Feb 2019) -   Duration 9 months
+•	Handling the Automation project for the Product Flex cube (Leading banking software in World).
+•	Handled 6 scrum teams having 3 members in each team for automation script development.
+•	Designed the Hybrid framework using Cucumber with Java and Selenium.
+•	Monitoring and guiding Automation team and resolving their issues.
+•	Enhancing the framework based on requirement from various in-house teams.
+•	Following agile model for executing automated test cases in every sprint.
+•	Involved in PBI estimations, sprint planning, sprint goals, daily scrum call and sprint retrospective meetings.
+•	Analysis from the burn down chart and calculating sprint velocity which becomes helpful for next sprint plan aligning
+to the capacity of the scrum team. 
+•	Reporting using extent reports cross browser testing and parallel execution.
+•	Helping Test Architect in creating roadmap for the automation use in future
+
+
+Worked as Test Analyst – Infosys (Oct 2015 to May 2018) -   Duration 2.9 Years 
+•	Worked with a Health Care Domain client, for Corporate Reporting Application, Premium and Claims Processing Application, Financial, HRMS and EMIS systems used by the core business. 
+•	Working on Projects associated with Health Care Reforms, Medicare, Medicaid and Health Exchange.
+•	Experience in working across all stages of Software Testing Life Cycle - Requirement Analysis, Test Strategy, Test Planning, Test Case Preparation, Test Case Execution, UAT (Support) and Deployment (Support). 
+•	Preparing Impact Analysis, Risk Analysis and estimation based on the impacted modules.
+•	Created Proof of Concepts for ETL and Web applications for Automation Testing by Data driven Framework using HP UFT.
+•	Handling SME activities leading a team of 4-6 members, reviewing the execution results of peers and conducting 
+Test result meetings with business teams for the Signoffs.
+•	Providing the Root Cause Analysis for the defects on release level and based on that helps in test regression suite optimization.
+•	Provides full-fledged support to the onsite coordinator, Client and Cross Vendors and represents the corresponding 
+applications in almost all testing forums.
+•	Design and development of automation suite using Selenium Web driver for web-based applications.
+•	Tracking the testing and defect life cycle using HP ALM, IBM RTC and IBM CQ
+•	Maintaining various project related trackers for daily status report
+•	Preparing reusable artifacts like plans, scripts and case studies.
+
+
+
+ Worked as Test Engineer – Infosys (Aug 2011 to Sep 2015) -   Duration 4 Years 
+•	Worked with a Health Care Domain client, for Corporate Reporting Application, Premium and Claims Processing Application, Financial, HRMS and EMIS systems used by the core business. 
+•	Worked on Projects associated with Health Care Reforms, Medicare, Medicaid and Health Exchange.
+•	Participated in Business and system requirement sessions and finalizes the scope of Testing.
+•	Analyzed the requirement from the functional aspect of the specification documents.
+•	Prepared Impact Analysis and estimation based on the impacted modules.
+•	Prepared and created Test planning and Manual Test Scripts.
+•	Created Test Data and ensured that the Test Environment is set up prior to code drop.
+•	Participates in Test Execution, Defect Logging and Reporting.
+•	Analyzes Automation Feasibility. Created and executed automated scripts using HP QTP/UFT.
+•	Documents the learning and challenges of the projects and shares the learning.
+•	Created various tools and Macros to save effort and show value adds to clients.
+
+Additional Responsibilities/Achievements:
+•	Received mails of appreciation from client for successfully handling projects. 
+•	Completed Internship from Infosys in the year 2011.
+•	Recognized to be Knowledge Management (KM) Anchor, Configuration Controller anchor and Defect Prevention Anchor, Tool Anchor for the team.
+•	Responsible for identifying technical trainings/knowledge need in the project and arranging training sessions within the team.
+•	Organising KT sessions for fresher’s and mentoring them for on-boarding process.
+•	Organized various team engagement events on account level and DC level in Infosys. 
+•	Represented Infosys Cricket team in Corporate Tournaments in Bhubaneswar.
+•	Certified as Star-Info scion, ICP inspire Award and INSTA Award Winner as a part of Reward and Recognition awards from Infosys occurring annually.
+•	Winner of the Automation Open Challenge conducted in 2016 by Infosys at Organization Level.
+
+
+
+Personal Details:
+
+Date of Birth:                03/11/1988 
+Marital status:              Married
+Passport #:                    will provide on demand
+Languages Known:      English and Hindi
+Permanent Address: S/O Mr Sharad Kumar Gupta, 236 Phase 4, Ashish Royal Park, Near Rohilkhand Medical College, BAREILLY, UTTAR PRADESH – 243001
+
